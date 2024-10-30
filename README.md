@@ -1,4 +1,4 @@
-# ** Práctica 1 introducción a git y github**
+# **Práctica 1 introducción a git y github**
 
 ## Descripción de la práctica:
 
@@ -31,7 +31,7 @@ python3 HolaMundo.py
 | **git remote add** | configura la ruta del repositorio remoto|
 | **git push -u origin master** | sube el repositorio local al repositorio remoto|
 
-##Notas sobre el archivo .gitignore
+## Notas sobre el archivo .gitignore
 
 El archivo especificado tiene la utilidad de ignorar ciertos archivos específicos con la finalidad de no ser guardados dentro del repositorio remoto.
 En el repositorio local el archivo debug.log que fue ignorado por git debido a la configuración guardada en el archivo ignore.git 
